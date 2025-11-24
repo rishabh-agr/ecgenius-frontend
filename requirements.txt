@@ -1,0 +1,6 @@
+streamlit
+requests
+matplotlib
+reportlab
+Pillow
+numpy
